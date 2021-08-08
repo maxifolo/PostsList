@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PostList"
+    }
+  },
+  "defaultProject": "PostList",
+  "cli": {
+    "analytics": false
+  }
 }
